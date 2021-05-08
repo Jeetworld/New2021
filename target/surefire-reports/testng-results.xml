@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="106" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+    <groups>
+      <group name="firstGroup">
+        <method signature="fourthClass.first()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="first" class="testNG.fourthClass"/>
+      </group> <!-- firstGroup -->
+    </groups>
+    <test name="Test2" duration-ms="106" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+      <class name="testNG.fourthClass">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="beforeClass" is-config="true" duration-ms="38" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="first()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="first" duration-ms="2" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="afterMethod" is-config="true" duration-ms="2" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="second()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="second" duration-ms="1" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="third()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="third" duration-ms="0" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- third -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:testNG.fourthClass@78b1cc93]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-05-07T05:10:59Z" finished-at="2021-05-07T05:10:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testNG.fourthClass -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

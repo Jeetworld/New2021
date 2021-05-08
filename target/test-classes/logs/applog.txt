@@ -1,0 +1,2 @@
+INFO    2021-04-25 11:41:39,688 [main] TestLog4j  - first message printed by Log4jj
+INFO    2021-04-25 11:41:39,774 [main] TestLog4j  - second message printed by Log45ff
